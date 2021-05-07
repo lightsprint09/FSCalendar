@@ -14,7 +14,7 @@ let package = Package(
         .target(
             name: "FSCalendar",
             dependencies: [],
-            path: "FSCalendar/"
+            path: "FSCalendar"
         )
     ]
 )
